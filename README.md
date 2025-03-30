@@ -2,16 +2,19 @@
 
 <ul>
   <li>
-    a biology scientist graduated at UFLA 🍄
+    data analyist 🎲
+  <li>
+  <li>
+    currently a tech student 💻
   </li>
   <li>
-    systems analysis and development student at Wyden & computing student at UFJF 💻
+    a biology scientist graduated at UFLA 🍄
   </li>
   <li>
     interested in data analysis, python, R, and cloud computing ☁️
   </li>
   <li>
-    coffee, illustration, yoga
+    coffee, illustration, yoga ☕
   </li>
 </ul>
   
