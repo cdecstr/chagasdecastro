@@ -3,7 +3,7 @@
 <ul>
   <li>
     data analyist 🎲
-  <li>
+  </li>
   <li>
     currently a tech student 💻
   </li>
